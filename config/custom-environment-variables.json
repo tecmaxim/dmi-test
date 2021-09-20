@@ -1,0 +1,19 @@
+{
+  "server": {
+    "host": "HOST",
+    "port": "PORT"
+  },
+  "swagger": {
+    "exposeRoute": {
+      "__name": "SWAGGER_EXPOSE",
+      "__format": "json"
+    },
+    "routePrefix": "SWAGGER_PREFIX"
+  },
+  "weatherApi": {
+    "apiHost": "WEATHER_API_HOST",
+    "appId": "WEATHER_API_APPID",
+    "resource" : "/data/2.5/weather?q={LOCATION}&units=metric&APPID={APPID}"
+  },
+  "loggingLevel": "debug"
+}

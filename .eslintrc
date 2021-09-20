@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "unicorn/prefer-module": "off",
+    "unicorn/no-array-for-each": "off",
+    "unicorn/no-array-reduce": "off",
+    "unicorn/numeric-separators-style": "off",
+    "unicorn/no-null": "off",
+    "unicorn/prefer-date-now": "off",
+    "unicorn/prefer-ternary": "off",
+    "unicorn/require-array-join-separator": "off",
+    "unicorn/prefer-object-from-entries": "off"
+  }
+}
