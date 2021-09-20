@@ -19,3 +19,14 @@ npm install
 ## Setting env variables
 
 Before you start, make sure you create a  `.env` file locally (there's an example in the repo `.env.example` that you can start from).
+
+
+## To Start: 
+```
+npm run start
+```
+
+## Run Tests:
+```
+npm run test
+```
